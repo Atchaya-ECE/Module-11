@@ -35,7 +35,7 @@ To write a Python program that:
 ---
 
 ## 💻 Program
-
+```
       class Node:
          def init (self, data): 
             self.item = data 
@@ -81,7 +81,7 @@ To write a Python program that:
       new_linked_list.insert_at_end(30) 
       new_linked_list.insert_at_end(40) 
       new_linked_list.traverse_list()
-
+```
 ## Sample Output
 ![image](https://github.com/user-attachments/assets/659c09bb-4957-4b14-9fbc-35917fcf1e72)
 
@@ -124,7 +124,7 @@ To write a Python program that:
 ---
 
 ## 💻 Program
-
+```
 class Node q:
 def init (self, data): 
    self.data = data 
@@ -167,7 +167,7 @@ Dllist.insert_end(0)
 Dllist.insert_end(1) 
 print(Dllist.search(0)) 
 print(Dllist.search(3))
-
+```
 ## Sample Output
 ![image](https://github.com/user-attachments/assets/c33c09b5-84d2-4382-a1e9-b8522a49b7eb)
 
@@ -212,7 +212,7 @@ To write a Python program that:
 ---
 
 ## 💻 Program
-
+```
 class Node:
     def __init__(self, data):
        self.data = data
@@ -248,7 +248,7 @@ for num in arr:
     ll.append(num)
 # Find and print middle element
 print(ll.find_middle())
-
+```
 ## Sample Input & Output
 ![image](https://github.com/user-attachments/assets/d5ecc29a-03f2-44cd-a60e-40e2977ed879)
 
@@ -283,7 +283,7 @@ To write a Python program to search for a given element in a singly linked list 
 ---
 
 ## 💻 Program
-
+```
 class Node:
    def init (self, data): 
       self.data = data 
@@ -313,7 +313,7 @@ llist.push(14);
       print("Yes") 
    else:
       print("No")
-
+```
 ## Sample Output
 ![image](https://github.com/user-attachments/assets/42143670-2640-42d9-8e36-1ac020d6ce06)
 
@@ -356,7 +356,7 @@ To write a Python program that adds a *new element* at the *start* of a singly l
 ---
 
 ## Program
-
+```
 def init (self, data): 
    self.data = data 
    self.next = None
@@ -382,7 +382,7 @@ MyList.push_front(10)
 MyList.push_front(20) 
 MyList.push_front(30) 
 MyList.PrintList()
-
+```
 ## Sample Output
 ![image](https://github.com/user-attachments/assets/99bb3fbc-1a1a-4fe5-aff7-144cd4ea8bc4)
 
